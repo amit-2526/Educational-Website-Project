@@ -1,1 +1,1 @@
-<h1 align="center">Educational Web Project</h1>
+<h1 align="center">Educational Web-App Project</h1>
